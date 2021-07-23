@@ -15,10 +15,10 @@
     
 .carder {
     border-radius: 50%;
-    background-color: white;
-    width:50px;
+    background-color:white;
+    width:-5px;
     height: 50px;
-    border: 2px solid pink;
+    border: 2px solid white;
     position: absolute;
     top: 25px;
     left: 25px;
@@ -26,4 +26,18 @@
 }
     .card-body {
     padding: 1.5em;
+}
+.user {
+    width: 46px;
+    border-radius: 50%;
+    
+
+}
+ 
+.gear {
+    height: 15px;
+}
+
+.pin {
+    height: 15px;
 }
