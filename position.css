@@ -1,0 +1,29 @@
+.card {
+    width: 400px;
+    min-height: 200px;
+    border: 2px solid grey;
+    margin: 0 auto;
+    margin-top: 70px;
+    
+}
+
+    .card-header {
+        min-height: 50px;
+        background-color:seagreen;
+        position: relative;
+        }
+    
+.carder {
+    border-radius: 50%;
+    background-color: white;
+    width:50px;
+    height: 50px;
+    border: 2px solid pink;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+
+}
+    .card-body {
+    padding: 1.5em;
+}
